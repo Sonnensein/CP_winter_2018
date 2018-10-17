@@ -41,5 +41,17 @@ public class Data_types {
         double d3 = Math.pow(d1,d2);
 
         System.out.println("d3=" + d3);
+
+       /* int ii1, ii2;
+        ii1 = 4;
+        ii2 = 4;
+
+        if (ii1 = ii2) {
+            System.out.println("ii2=ii1");
+            ) else (
+
+                    )
+        }
+        */
     }
 }
