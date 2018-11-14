@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+H:\CP_winter_2018\.metadata\.plugins\org.eclipse.jdt.core
+2517571861.index
